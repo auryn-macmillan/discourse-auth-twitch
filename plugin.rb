@@ -64,7 +64,6 @@ register_css <<CSS
 
 .btn-social.twitch {
   background: #6441A5;
-  text-indent: 19px;
 }
 
 .btn-social.twitch:before {
